@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab8175ab-5268-48e9-a3ee-247bbe8f832d" name="Changes" comment="" />
+    <list default="true" id="ab8175ab-5268-48e9-a3ee-247bbe8f832d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/screenshot_library.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../A3/U05-GraphicsAppUndKlassen-3-NeueShapesFuerDieGraphicsApp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LibraryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="library.LibraryApp" />
+      <module name="GraphicsApp-Exercise-05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="library.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibraryApp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -30,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633541764794</updated>
       <workItem from="1633541766434" duration="305000" />
+      <workItem from="1633544819708" duration="98000" />
     </task>
     <servers />
   </component>
