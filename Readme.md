@@ -6,7 +6,9 @@ und DVDs enthalten können; Ihre Anwendung nutzt die
 implementierten Klassen um Medien durch den Benutzer einlesen zu
 lassen.
 
-![](docs/screenshot_library.png)
+| Eine beispielhafte Interaktion mit der fertigen BibliotheksApp |
+|:------:|
+| ![Bibliotheksanwendung](./docs/screenshot_library.png) |
 
 Im ersten Teil der Anwendung werden die nötigen Klassen für die
 Mediensammlung entworfen. Erstellen Sie hierzu in einem geeigneten Unterordner in Ihrem Projekt jeweils neue `.java`-Klassendateien:
