@@ -1,5 +1,7 @@
 # U23 | Bibliotheks App
 
+**Für dieses Übungsblatt gibt es kein Starterpaket**
+
 Entwerfen Sie in dieser Aufgabe eine Klassenstruktur, die die Verwaltung
 von Medien in einem Bibliothekskatalog abbildet. Der Katalog soll Bücher
 und DVDs enthalten können; Ihre Anwendung nutzt die
