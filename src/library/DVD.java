@@ -1,8 +1,5 @@
 package library;
 
-/**
- * Created by Alexander Bazo on 16/11/15.
- */
 public class DVD extends Media {
     private int runTimeInMinutes;
     private boolean hasBonusMaterial;
