@@ -50,12 +50,12 @@ folgende Aufgaben erfüllen:
 
 -   In einem Array vom Typ `Media` werden drei Medien gespeichert.
 
--   Der Benutzer wird für jede Stelle des Arrays aufgefordert, die Daten
-    eines neuen Medium einzugeben. Dabei kann er über eine numerische
+-   Benutzende werden für jede Stelle des Arrays aufgefordert, die Daten
+    eines neuen Medium einzugeben. Dabei können sie über eine numerische
     Eingabe auswählen, ob ein Buch oder eine DVD gespeichert werden
     soll.
 
--   Je nach Auswahl des Nutzers werden anschließend die nötigen
+-   Je nach Auswahl Benutzender werden anschließend die nötigen
     Informationen über die Konsole eingelesen. Mit den Eingaben wird ein
     entsprechende Objekt vom Typ `Book` oder `DVD` erstellt und im Array
     gespeichert.
@@ -65,3 +65,4 @@ folgende Aufgaben erfüllen:
     und rufen Sie für jedes gespeicherte Objekt dessen
     `toString`-Methode auf. Die Rückgabe der Methode wird auf der
     Konsole ausgegeben.
+- Verwenden Sie die Klasse [`java.util.Scanner`](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html), um Eingaben von der Konsole auszulesen
