@@ -36,7 +36,7 @@ Mediensammlung entworfen. Erstellen Sie hierzu in einem geeigneten Unterordner i
     Achten Sie beim Implementieren des Konstruktors darauf, dass auch
     die ursprünglichen `Media`-Eigenschaften (Titel und Jahr) als
     Parameter übergeben werden, und dass der eigentliche Konstruktor der
-    *Elternklasse* mit diesen Werten aufgerufen wird. Überschreiben Sie
+    Superklasse mit diesen Werten aufgerufen wird. Überschreiben Sie
     die `toString`-Methode so, dass auch die zusätzlichen Eigenschaften
     im zurückgegebenen String enthalten sind.
 
