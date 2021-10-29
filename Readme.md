@@ -45,7 +45,7 @@ Mediensammlung entworfen. Erstellen Sie hierzu in einem geeigneten Unterordner i
     hier jedoch die zusätzlichen Eigenschaften Laufzeit (in Minuten) und die Information, ob Bonusmaterial auf der DVD vorhanden ist
     abgebildet.
 
-Im zweiten Teil der Aufgabe wird eine `LibraryApp` erstellt. Erstellen Sie dazu eine neue Java-Klasse mit einer `main`-Methode (Siehe Vorlesung 2, Folie 18 ff.). Das Programm soll dabei
+Im zweiten Teil der Aufgabe wird eine `LibraryApp` erstellt. Erstellen Sie dazu eine neue Java-Klasse mit einer `main`-Methode. Das Programm soll dabei
 folgende Aufgaben erfüllen:
 
 -   In einem Array vom Typ `Media` werden drei Medien gespeichert.
