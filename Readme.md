@@ -1,4 +1,4 @@
-# U16 | Bibliotheks App
+# U23 | Bibliotheks App
 
 Entwerfen Sie in dieser Aufgabe eine Klassenstruktur, die die Verwaltung
 von Medien in einem Bibliothekskatalog abbildet. Der Katalog soll Bücher
